@@ -1,0 +1,38 @@
+# Copy this file to the root of your group's repository as project.yaml.
+# The course reads it with a program, so:
+# - keep every key exactly as it is spelled here; change only the values;
+# - put every value in double quotes;
+# - indent with spaces, never with tabs;
+# - list all four members, each starting with "- name:".
+# Check that GitHub shows the file without an error before you submit the
+# link to your repository.
+
+schema: "1"
+
+# Your working title. You may change it later; keep this file up to date.
+title: "Campus Lost and Found"
+
+# One sentence: "An app that helps [users] to [do what] so that [benefit]."
+summary: "An app that helps students to report and find lost items on campus so that more of them are returned."
+
+members:
+  - name: "Mahder Kassaw"              # full name, as in the student register
+    student_id: "UGR/7047/16"         # exactly as on your student ID card
+    email: "mahderkassaw@gmail.com" # an address you read every day
+    github: "MahderK"            # your GitHub username, without @
+  - name: "Liya Belay"
+    student_id: "UGR/8340/16"
+    email: "Leahbelay14@gmail.com"
+    github: "LeaBelay"
+  - name: "Wangari Dereje"
+    student_id: "UGR/0462/16"
+    email: "wangaritemesgen@gmail.com"
+    github: "wang-i"
+  - name: "Maedot Berhanu"
+    student_id: "UGR/1580/16"
+    email: "Maedotbbbfzw@gmail.com"
+    github: "Maedotbbb"
+  - name: "Siham Tewekel"
+    student_id: "UGR/9831/16"
+    email: "semansiham@gmail.com"
+    github: ""
