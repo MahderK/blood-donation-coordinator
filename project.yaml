@@ -1,8 +1,8 @@
 schema: "1"
 
-title: "Campus Lost and Found"
+title: "DonoHere"
 
-summary: "An app that helps students to report and find lost items on campus so that more of them are returned."
+summary: "A flutter based application where blood donation services are able to coordinate and donors could request for donation."
 
 members:
   - name: "Mahder Kassaw"

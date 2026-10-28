@@ -1,2 +1,2 @@
-# lost-and-found-for-campus
-An app where you could post found items with photos and locations, and be able to claim lost items.
+# blood-donation-coordinator
+A flutter based application where blood donation services are able to coordinate and donors could request for donation.
